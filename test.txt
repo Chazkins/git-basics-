@@ -1,1 +1,1 @@
-git commit -m "Первый коммит" 
+git commit -m "Первый коммит!"
